@@ -22,4 +22,4 @@ Available on [App Store](https://apps.apple.com/app/id6762614600) and [Google Pl
 
 ## Feedback and issues
 
-Please submit feedback and issues [here](https://github.com/djyde/haiker-app/discussions)
+Please submit feedback and issues [here](https://github.com/djyde/haiker-app/issues)
