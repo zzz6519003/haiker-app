@@ -10,9 +10,7 @@
 
 ## Download
 
-Available on [App Store](https://apps.apple.com/app/id6762614600)
-
-Google Play is on the way.
+Available on [App Store](https://apps.apple.com/app/id6762614600) and [Google Play Store](https://play.google.com/store/apps/details?id=org.randynamic.haiker)
 
 ## Features
 
