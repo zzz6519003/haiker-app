@@ -6,7 +6,7 @@
 
 [Haiker](https://haiker.app/) is a beautiful Hacker News App. Available on iOS and Android.
 
-> NOTE: Haiker is not a open source project. This repo is for maintaining the issue and feedback.
+> NOTE: Haiker is not an open source project. This repo is for maintaining the issue and feedback.
 
 ## Download
 
